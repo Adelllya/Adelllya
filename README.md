@@ -82,11 +82,11 @@ When I'm not coding, I'm usually drawing or building cosplay props from scratch.
 
 ## 💬 Let's Connect
 
-<img align="left" src="./images/f8df88c84f08725990e7e5fc1ad795f7.jpg" width="100" alt="Pixel cat" />
-
-Want to work together or just say hi?
-
-<br clear="right"/>
+<p align="center">
+  <img src="./images/f8df88c84f08725990e7e5fc1ad795f7.jpg" width="80" alt="Pixel cat" />
+  <br><br>
+  Want to work together or just say hi?
+</p>
 
 <p align="center">
   <a href="https://t.me/ailachu_dev">
