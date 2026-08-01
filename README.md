@@ -13,7 +13,7 @@
 
 ## 🌿 About Me
 
-<img align="right" src="./images/digital-frontiers-11-1.jpg" width="280" alt="Master Sword" />
+<img align="right" src="./images/digital-frontiers-11-1.jpg" width="220" alt="Master Sword" />
 
 - 🎓 Finishing my bachelor's in **Computer Science and Information Systems**.
 - 🐍 Mostly a backend developer, my main language is Python.
@@ -52,6 +52,7 @@
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-6C3EC2?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
@@ -71,7 +72,7 @@
 
 ## 🎨 Off Duty
 
-<img align="right" src="./images/%20-12.jpg" width="250" alt="Cats at work" />
+<img align="right" src="./images/%20-12.jpg" width="200" alt="Cats at work" />
 
 When I'm not coding, I'm usually drawing or building cosplay props from scratch. Foam, paint, way too much hot glue. It's messy, slow, and I love every minute of it. ✂️
 
@@ -81,11 +82,11 @@ When I'm not coding, I'm usually drawing or building cosplay props from scratch.
 
 ## 💬 Let's Connect
 
-<p align="center">
-  <img src="./images/f8df88c84f08725990e7e5fc1ad795f7.jpg" width="150" alt="Pixel cat" />
-</p>
+<img align="right" src="./images/f8df88c84f08725990e7e5fc1ad795f7.jpg" width="100" alt="Pixel cat" />
 
 Want to work together or just say hi?
+
+<br clear="right"/>
 
 <p align="center">
   <a href="https://t.me/ailachu_dev">
