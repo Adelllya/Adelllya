@@ -2,7 +2,7 @@
   <img src="./images/digital-frontiers-276.jpg" width="100%" alt="Korok Forest" />
 </p>
 
-<h1 align="center">Hi, I'm Aila</h1>
+<h1 align="center">Hi, I'm Aila ✨</h1>
 <p align="center">Backend developer. Python lover. Hyrule fan.</p>
 
 <p align="center">
@@ -11,30 +11,51 @@
 
 ---
 
-## About Me
+## 🌿 About Me
 
-<img align="right" src="./images/digital-frontiers-11-1.jpg" width="200" alt="Master Sword" />
+<img align="right" src="./images/digital-frontiers-11-1.jpg" width="280" alt="Master Sword" />
 
-- I'm mostly a backend developer. My main language is Python.
-- Currently learning browser automation, tools like Selenium and Camoufox.
+- 🎓 Finishing my bachelor's in **Computer Science and Information Systems**.
+- 🐍 Mostly a backend developer, my main language is Python.
+- 🔧 Currently learning browser automation, tools like Selenium and Camoufox.
 - I also work with Django and DRF, some C++, Java (OOP style), a bit of Angular and Unity.
-- Outside of code, I draw and I love making cosplay props by hand.
+- 🎨 Outside of code, I draw and I love making cosplay props by hand.
 - Big Legend of Zelda fan 🗡️ that's part of who I am, not just a theme.
-- Open to small freelance jobs, mostly backend and automation tasks.
+- 💼 Open to small freelance jobs, mostly backend and automation tasks.
 
 <br clear="right"/>
 
 ---
 
-## Tech Stack
+## 🔥 Skills & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,django,angular,unity,git,html,css,vscode" alt="Tech stack icons" />
-</p>
+#### 💻 Programming Languages & Frameworks
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🛠️ Software & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+#### 🖥️ IDEs/Editors
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Adelllya&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub stats" />
@@ -48,13 +69,21 @@
 
 ---
 
-## Off Duty
+## 🎨 Off Duty
 
-When I'm not coding, I'm usually drawing or building cosplay props from scratch. Foam, paint, way too much hot glue. It's messy, slow, and I love every minute of it.
+<img align="right" src="./images/%20-12.jpg" width="250" alt="Cats at work" />
+
+When I'm not coding, I'm usually drawing or building cosplay props from scratch. Foam, paint, way too much hot glue. It's messy, slow, and I love every minute of it. ✂️
+
+<br clear="right"/>
 
 ---
 
-## Let's Connect
+## 💬 Let's Connect
+
+<p align="center">
+  <img src="./images/f8df88c84f08725990e7e5fc1ad795f7.jpg" width="150" alt="Pixel cat" />
+</p>
 
 Want to work together or just say hi?
 
