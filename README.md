@@ -72,7 +72,7 @@
 
 ## 🎨 Off Duty
 
-<img align="right" src="./images/%20-12.jpg" width="200" alt="Cats at work" />
+<img align="left" src="./images/%20-12.jpg" width="200" alt="Cats at work" />
 
 When I'm not coding, I'm usually drawing or building cosplay props from scratch. Foam, paint, way too much hot glue. It's messy, slow, and I love every minute of it. ✂️
 
@@ -82,7 +82,7 @@ When I'm not coding, I'm usually drawing or building cosplay props from scratch.
 
 ## 💬 Let's Connect
 
-<img align="right" src="./images/f8df88c84f08725990e7e5fc1ad795f7.jpg" width="100" alt="Pixel cat" />
+<img align="left" src="./images/f8df88c84f08725990e7e5fc1ad795f7.jpg" width="100" alt="Pixel cat" />
 
 Want to work together or just say hi?
 
