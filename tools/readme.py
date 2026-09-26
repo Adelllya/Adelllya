@@ -102,9 +102,7 @@ def main():
             row.append('<a href="https://%s">%s</a>' % (sc["url"], pic))
     if row:
         out.append(block(*row))
-    out.append(block(picture("archive", C.ARCHIVE.title())))
-    out.append('<p align="center">\n  Labs: <a href="https://github.com/Adelllya/pp2_2025">pp2_2025</a>'
-               ' · <a href="https://github.com/Adelllya/WebDev">WebDev</a>\n</p>\n')
+    out.append(block('<a href="https://github.com/%s?tab=repositories">%s</a>' % (USER, picture("archive", C.ARCHIVE.title()))))
 
     out.append(chapter("slate"))
     out.append(block(picture("slate", "Slate readout: quests complete, live sites, public repos and languages, refreshed weekly")))

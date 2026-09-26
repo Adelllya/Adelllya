@@ -67,11 +67,7 @@
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/archive-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/archive-light.svg"><img src="./assets/archive-dark.svg" width="100%" alt="Archives ▸ Pp2_2025 (Python Labs) · Webdev (Html/Css/Js Labs) · Oop Final (Java, Team Of Four)"></picture>
-</p>
-
-<p align="center">
-  Labs: <a href="https://github.com/Adelllya/pp2_2025">pp2_2025</a> · <a href="https://github.com/Adelllya/WebDev">WebDev</a>
+  <a href="https://github.com/Adelllya?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/archive-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/archive-light.svg"><img src="./assets/archive-dark.svg" width="100%" alt="Archives ▸ Pp2_2025 (Python Labs) · Webdev (Html/Css/Js Labs) · Oop Final (Java, Team Of Four)"></picture></a>
 </p>
 
 <p align="center">
